@@ -22,9 +22,7 @@ Users can share their live location in real time, which is displayed on an inter
 ## 📸 Screenshot
 
 ![Live Tracking Screenshot]
-[(public/image/image1.png)](https://github.com/sadhana8/Real-Time--Tracking-App-/blob/main/public/image/image1.png)
-
-[(public/image/image2.png)](https://github.com/sadhana8/Real-Time--Tracking-App-/blob/main/public/image/image2.png)
+[(public/image/image1.png)](https://github.com/sadhana8/Real-Time--Tracking-App-/blob/main/public/image/image1.png),[(public/image/image2.png)](https://github.com/sadhana8/Real-Time--Tracking-App-/blob/main/public/image/image2.png)
 ---
 
 ## 🛠️ Technologies Used
